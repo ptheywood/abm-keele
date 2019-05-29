@@ -50,6 +50,11 @@ class: impact
 + Template-based simulation environment
 
 
++ Well-suited to:
+    + **Large-scale Populations** 
+    + **Light-weight Agents**
+
+
 
 ]
 .col-5.img-col[
