@@ -1,0 +1,8 @@
+.tmp/
+dist/
+pdf/
+_convert/
+*.log
+node_modules/
+package-lock.json
+meeting-notes.md
