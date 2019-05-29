@@ -20,6 +20,10 @@ layout: true
 
 class: impact
 
+<!-- .tr-uni-logo[
+![The University of Sheffield Logo](img/rse-sheffield-logo.png)
+] -->
+
 # {{title}}
 ## <span style="text-decoration: underline">{{mainauthor}}</span>,
 <br />
@@ -147,7 +151,7 @@ github.com/flamegpu/
 # Example: Multi-Mode Simulation
 
 .col-12.responsive[
-<video width="1920" height="1080" controls loop muted poster="video/S2AM.png">
+<video width="1920" height="1080" controls loop muted poster="video/S2AM-1080.png">
     <source src="video/S2AM-1080-2.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
