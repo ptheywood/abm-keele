@@ -194,3 +194,16 @@ github.com/flamegpu/
 
 ]
 ]
+
+
+---
+# &nbsp;
+
+<br />
+<br />
+<br />
+.big.center[
+Slides with video online at: 
+
+https://ptheywood.uk/abm-keele/
+]
